@@ -1,0 +1,8 @@
+alias vim="nvim"
+alias ll="ls -lah"
+alias gsync="rsync -av --exclude={'iterm2','.DS_Store*','.zcompdump*','.history*','git'} ~/.config ~/.zshenv Git"
+alias ssPrimarch="ssh -i ~/.ssh/horus elevart@192.168.30.10"
+alias ssLynx="ssh -i ~/.ssh/horus root@192.168.30.1"
+alias ssKallisto="ssh debris@192.168.30.70"
+alias ssFelicia="ssh -i ~/.ssh/horus elevart@192.168.30.40"
+alias ssDogma="ssh -i ~/.ssh/Horus elevart@192.168.30.45"
